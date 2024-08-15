@@ -1,0 +1,10 @@
+#heading-wrapper {
+    margin: 0 auto;
+    letter-spacing: 5px;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
